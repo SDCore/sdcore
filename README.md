@@ -1,16 +1,19 @@
 ### Hi there 👋
 
-<!--
-**SDCore/sdcore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Michael, but most call me SDCore or SD.
+I'm a freelance web developer in Illinois working and tinkering with small projects here and there.
+Feel free to check out what I'm working on!
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on:
+  - LegendsOnly, a jokey-type dating site based on Apex Legends
+  - Legendary Lore: Apex Legends, a lore-based site that gives information on current events, the battle pass, and lore for Apex Legends
+  - Multiple small Discord bots
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning:
+  - Javascript
+  - Typescript
+  - NodeJS
+
+- 📫 How to reach me:
+  - Twitter: @SDCore_
+  - Discord: SDCore#1234
