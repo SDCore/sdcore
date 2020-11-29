@@ -4,8 +4,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sdcore&hide=Visual%20Basic&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![sdcore's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=SDCore)](https://github.com/anuraghazra/github-readme-stats)
-
 ### Hi there 👋
 
 My name is Michael, but most call me SDCore or SD.
