@@ -12,9 +12,9 @@ Feel free to check out what I'm working on!
 
 - 🔭 I’m currently working on:
 
-  - LegendsOnly, a jokey-type dating site based on Apex Legends
+  - Apex Legends Stats Bot - A Discord bot that displays apex legends user stats, map rotation information, legend info, server status, and more
+  - TruckersMP Stats Bot - A discord bot that shows off TruckersMP server stats
   - Legendary Lore: Apex Legends, a lore-based site that gives information on current events, the battle pass, and lore for Apex Legends
-  - Multiple small Discord bots
 
 - 🌱 I’m currently learning:
 
