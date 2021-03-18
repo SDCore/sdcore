@@ -7,15 +7,19 @@
 
 <br /><br />
 
-<a href="https://github.com/SDCore">
-  <img align="center" src="https://github-profile-trophy.vercel.app/api/wakatime?username=SDCore&theme=onedark" />
-</a>
+<p align="center">
+  <a href="https://github.com/SDCore">
+    <img align="center" src="https://github-profile-trophy.vercel.app/api/wakatime?username=SDCore&theme=onedark" />
+  </a>
+</p>
 
-<br /><br />
+<br />
 
-<a href="https://wakatime.com/@SDCore">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=SDCore&layout=compact&hide_border=true&theme=tokyonight" />
-</a>
+<p align="center">
+  <a href="https://wakatime.com/@SDCore">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=SDCore&layout=compact&hide_border=true&theme=tokyonight" />
+  </a>
+</p>
 
 ### Hi there 👋
 
