@@ -1,8 +1,21 @@
-![Profile views](https://gpvc.arturio.dev/SDCore)
+<a href="https://github.com/SDCore">
+  <img align="top" src="https://github-readme-stats.vercel.app/api?username=SDCore&show_icons=true&count_private=true&custom_title=SDCore%27s%20GitHub%20Stats&hide_border=true&theme=tokyonight" />
+</a>
+<a href="https://github.com/SDCore">
+  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SDCore&layout=compact&langs_count=10&custom_title=Most%20Used%20Languages&hide_border=true&theme=tokyonight&hide=Visual%20Basic" />
+</a>
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=sdcore&hide=stars&count_private=true&show_icons=true&theme=tokyonight&custom_title=SDCores%20Github%20Stats&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+<br /><br />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sdcore&hide=Visual%20Basic&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/SDCore">
+  <img align="center" src="https://github-profile-trophy.vercel.app/api/wakatime?username=SDCore&theme=onedark" />
+</a>
+
+<br /><br />
+
+<a href="https://wakatime.com/@SDCore">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=SDCore&layout=compact&hide_border=true&theme=tokyonight" />
+</a>
 
 ### Hi there 👋
 
