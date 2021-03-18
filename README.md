@@ -5,15 +5,13 @@
   <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SDCore&layout=compact&langs_count=10&custom_title=Most%20Used%20Languages&hide_border=true&theme=tokyonight&hide=Visual%20Basic" />
 </a>
 
-<br /><br />
+<p></p>
 
 <p align="center">
   <a href="https://github.com/SDCore">
     <img align="center" src="https://github-profile-trophy.vercel.app/api/wakatime?username=SDCore&theme=onedark" />
   </a>
 </p>
-
-<br />
 
 <p align="center">
   <a href="https://wakatime.com/@SDCore">
