@@ -19,7 +19,9 @@
   </a>
 </p>
 
-### Hi there 👋
+<br />
+
+## Hi there 👋
 
 My name is Michael, but most call me SDCore or SD.
 I'm a freelance web developer in Illinois working and tinkering with small projects here and there.
@@ -36,6 +38,8 @@ Feel free to check out what I'm working on!
   - Javascript
   - Typescript
   - NodeJS
+  - PHP
+  - Ubuntu/Linux
 
 - 📫 How to reach me:
   - Twitter: @SDCore\_
