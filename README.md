@@ -31,7 +31,6 @@ Feel free to check out what I'm working on!
 
   - Apex Legends Stats Bot - A Discord bot that displays apex legends user stats, map rotation information, legend info, server status, and more
   - TruckersMP Stats Bot - A discord bot that shows off TruckersMP server stats
-  - Legendary Lore: Apex Legends, a lore-based site that gives information on current events, the battle pass, and lore for Apex Legends
 
 - 🌱 I’m currently learning:
 
