@@ -29,8 +29,8 @@ Feel free to check out what I'm working on!
 
 - 🔭 I’m currently working on:
 
-  - Apex Legends Stats Bot - A Discord bot that displays apex legends user stats, map rotation information, legend info, server status, and more
-  - TruckersMP Stats Bot - A discord bot that shows off TruckersMP server stats
+  - Apex Legends Stats Bot - A Discord bot that displays apex legends user stats, map rotation information, legend info, server status, and more.
+  - Apex Legends Ranked Leaderboards - Auto updating leaderboards for Master and Apex Predator players.
 
 - 🌱 I’m currently learning:
 
