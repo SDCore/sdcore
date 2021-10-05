@@ -42,4 +42,4 @@ Feel free to check out what I'm working on!
 
 - 📫 How to reach me:
   - Twitter: @SDCore\_
-  - Discord: SDCore#1234
+  - Discord: SDCore#0001
