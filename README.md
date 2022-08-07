@@ -1,22 +1,20 @@
-## Hi there 👋
+```python
+$ info sdcore
+........................................    SDCore@Info
+........................................    ----------
+........................................    Uptime: "24 years"
+........................................    Position: "Stryder, USA"
+.....///////////........................    Languages: ["PHP", "Javascript", "Typescript", "HTML", "CSS"]
+.......@&&&&&&...@@@@&&&&...@@@@&&&.....    OS: "Ubuntu 22"
+.......&&...%%...&&....%%..&&&...%%.....    Editor: "VSCode"
+.......%%........%%....%%..%%%..........    Hobbies: ["Apex Legends", "Video Game Lore", "Radio"]
+.......&&&&&&(...&&....((..//(..........
+............((...((....//..(//..........
+.......((...//...//....//..///...//.....    Contacts
+.......///////...////////...///////.....    --------
+.........................\\\\\\\\\\\....    Email: "dev@sdcore.dev"
+........................................    Twitter: "@SDCore_"
+........................................    Discord: "SDCore#0001"
+........................................    Reddit: "SDCored"
 
-My name is Michael, but most call me SDCore or SD.
-I'm a freelance web developer in Illinois working and tinkering with small projects here and there.
-Feel free to check out what I'm working on!
-
-- 🔭 I’m currently working on:
-
-  - Apex Legends Stats Bot - A Discord bot that displays apex legends user stats, map rotation information, legend info, server status, and more.
-  - Apex Legends Ranked Leaderboards - Auto updating ranked leaderboards for Apex Legends
-
-- 🌱 I’m currently learning:
-
-  - Javascript
-  - Typescript
-  - NodeJS
-  - PHP
-  - Ubuntu/Linux
-
-- 📫 How to reach me:
-  - Twitter: @SDCore\_
-  - Discord: SDCore#0001
+``` 
