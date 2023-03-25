@@ -1,4 +1,4 @@
-name: Update steam playtime
+name: Update Steam Playtime
 
 on:
   push:
@@ -6,7 +6,7 @@ on:
   pull_request:
     branches: [master]
   schedule:
-    - cron: "10 * * * *"
+    - cron: "0 */6 * * *"
 
 jobs:
   build:
