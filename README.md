@@ -5,7 +5,7 @@ $ info sdcore
                                             Uptime: "24 years"
     +--------------------------------+      Position: "Stryder, USA"
     |                                |      Languages: ["PHP", "Javascript", "Typescript", "HTML", "CSS"]
-    |  ///////   ///////    ///////  |      OS: "Ubuntu 22"
+    |  ///////   ///////    ///////  |      OS: "Windows 11"
     |  //   //   //    //  ///   //  |      Editor: "VSCode"
     |  //        //    //  ///       |      Hobbies: ["Apex Legends", "Video Game Lore", "Radio"]
     |  ///////   //    //  ///       |
