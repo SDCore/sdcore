@@ -24,7 +24,7 @@ $ info sdcore
 ```text
 🎮 Apex Legends                     🕘 1927 hrs 21 mins
 🎮 Team Fortress 2                  🕘 361 hrs 6 mins
-🎮 Elite Dangerous                  🕘 344 hrs 24 mins
+🎮 Elite Dangerous                  🕘 346 hrs 21 mins
 🎮 Euro Truck Simulator 2           🕘 287 hrs 32 mins
 🎮 American Truck Simulator         🕘 272 hrs 28 mins
 ```
