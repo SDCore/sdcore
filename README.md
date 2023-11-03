@@ -7,14 +7,14 @@ $ info sdcore
     |                                |      Languages: ["PHP", "Javascript", "Typescript", "HTML", "CSS"]
     |  ///////   ///////    ///////  |      OS: "Windows 11"
     |  //   //   //    //  ///   //  |      Editor: "VSCode"
-    |  //        //    //  ///       |      Hobbies: ["Apex Legends", "Video Game Lore", "Radio"]
+    |  //        //    //  ///       |      Hobbies: ["Apex Legends", "Video Game Lore"]
     |  ///////   //    //  ///       |
     |       //   //    //  ///       |
     |  //   //   //    //  ///   //  |      Contacts
     |  ///////   ///////    ///////  |      --------
     |                                |      Email: "dev@sdcore.dev"
     +--------------------------------+      Twitter: "@SDCore_"
-                                            Discord: "SDCore#0001"
+                                            Discord: "sdcore.dev"
                                             Reddit: "SDCored"
 
 ``` 
