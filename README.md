@@ -22,9 +22,9 @@ $ info sdcore
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/1c0ec2b46821ed572b57a570bc1ea74f" target="_blank">🎮 Steam Playtime Leaderboard</a>
 ```text
-🎮 Apex Legends                     🕘 2271 hrs 54 mins
+🎮 Apex Legends                     🕘 2272 hrs 37 mins
 🎮 Team Fortress 2                  🕘 361 hrs 6 mins
-🎮 Elite Dangerous                  🕘 349 hrs 26 mins
+🎮 Elite Dangerous                  🕘 350 hrs 24 mins
 🎮 Euro Truck Simulator 2           🕘 288 hrs 53 mins
 🎮 American Truck Simulator         🕘 272 hrs 28 mins
 ```
