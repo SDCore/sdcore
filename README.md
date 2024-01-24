@@ -25,7 +25,7 @@ $ info sdcore
 🎮 Apex Legends                     🕘 2351 hrs 13 mins
 🎮 Team Fortress 2                  🕘 361 hrs 6 mins
 🎮 Elite Dangerous                  🕘 350 hrs 24 mins
-🎮 Factorio                         🕘 297 hrs 54 mins
+🎮 Factorio                         🕘 298 hrs 21 mins
 🎮 Euro Truck Simulator 2           🕘 291 hrs 22 mins
 ```
 <!-- Powered by https://github.com/YouEclipse/steam-box . -->
