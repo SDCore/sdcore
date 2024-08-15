@@ -22,8 +22,8 @@ $ info sdcore
 <!-- steam-box start -->
 #### <a href="https://gist.github.com/1c0ec2b46821ed572b57a570bc1ea74f" target="_blank">🎮 Steam Playtime Leaderboard</a>
 ```text
-🎮 Apex Legends                     🕘 2578 hrs 13 mins
-🎮 Factorio                         🕘 595 hrs 12 mins
+🎮 Apex Legends                     🕘 2578 hrs 57 mins
+🎮 Factorio                         🕘 596 hrs 27 mins
 🎮 Team Fortress 2                  🕘 362 hrs 48 mins
 🎮 Elite Dangerous                  🕘 351 hrs 50 mins
 🎮 Euro Truck Simulator 2           🕘 291 hrs 22 mins
