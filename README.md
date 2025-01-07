@@ -7,7 +7,7 @@ $ info sdcore
     |                                |      Languages: ["PHP", "Javascript", "Typescript", "HTML", "CSS"]
     |  ///////   ///////    ///////  |      OS: "Windows 11"
     |  //   //   //    //  ///   //  |      Editor: "VSCode"
-    |  //        //    //  ///       |      Hobbies: ["Apex Legends", "Video Game Lore"]
+    |  //        //    //  ///       |      Hobbies: ["Factorio", "Apex Legends", "Bot Development",  "Video Game Lore"]
     |  ///////   //    //  ///       |
     |       //   //    //  ///       |
     |  //   //   //    //  ///   //  |      Contacts
