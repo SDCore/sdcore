@@ -5,7 +5,7 @@ $ info sdcore
                                             Uptime: "25 years"
     +--------------------------------+      Position: "Stryder, USA"
     |                                |      Languages: ["PHP", "Javascript", "Typescript", "HTML", "CSS"]
-    |  ///////   ///////    ///////  |      OS: "Windows 11"
+    |  ///////   ///////    ///////  |      Operating System: "Windows 11"
     |  //   //   //    //  ///   //  |      Editor: "VSCode"
     |  //        //    //  ///       |      Hobbies: [
     |  ///////   //    //  ///       |        "Factorio",
@@ -13,11 +13,11 @@ $ info sdcore
     |  //   //   //    //  ///   //  |        "Bot Development",
     |  ///////   ///////    ///////  |        "Video Game Lore"
     |                                |      ]      
-    +--------------------------------+      Contacts
-                                            --------
-                                            Email: "dev@sdcore.dev"
-                                            Bluesky: "sdcore.dev"
-                                            Discord: "sdcore.dev"
+    +--------------------------------+      Contacts: [
+                                              {"Email": "dev@sdcore.dev"},
+                                              {"Bluesky": "@sdcore.dev"},
+                                              {"Discord": "sdcore.dev"},
+                                            ]
 
 ``` 
 
