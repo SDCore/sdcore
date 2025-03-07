@@ -2,7 +2,7 @@
 $ info sdcore
                                             SDCore@Info
                                             ----------
-                                            Uptime: "25 years"
+                                            Uptime: "26 years"
     +--------------------------------+      Position: "Stryder, USA"
     |                                |      Languages: ["PHP", "Javascript", "Typescript", "HTML", "CSS"]
     |  ///////   ///////    ///////  |      Operating System: "Windows 11"
