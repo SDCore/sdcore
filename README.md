@@ -15,7 +15,7 @@ $ info sdcore
     |                                |      ]      
     +--------------------------------+      Contacts: [
                                               {"Email": "dev@sdcore.dev"},
-                                              {"Bluesky": "@sdcore.dev"},
+                                              {"Bluesky": "sdcore.dev"},
                                               {"Discord": "sdcore.dev"}
                                             ]
 
